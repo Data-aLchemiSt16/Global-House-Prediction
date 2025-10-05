@@ -62,6 +62,3 @@ This realistic model, while having lower overall accuracy, is infinitely more va
 - **Machine Learning:** Scikit-Learn, Imbalanced-Learn (for SMOTE)
 - **Data Visualization:** Matplotlib, Seaborn
 - **Development Environment:** Jupyter Notebook
-
-
-## Project Structure
