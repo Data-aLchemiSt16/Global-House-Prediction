@@ -63,6 +63,5 @@ This realistic model, while having lower overall accuracy, is infinitely more va
 - **Data Visualization:** Matplotlib, Seaborn
 - **Development Environment:** Jupyter Notebook
 
----
 
 ## Project Structure
