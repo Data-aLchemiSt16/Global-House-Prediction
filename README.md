@@ -47,7 +47,7 @@ This realistic model, while having lower overall accuracy, is infinitely more va
 #### Final Feature Importances
 *Financial health (`disposable_income`, `customer_salary`) and property characteristics (`legal_cases`, `crime_cases`) are now the key drivers of the decision.*
 
-![Realistic Feature Importance Plot]([images/realistic_feature_importance.png](https://github.com/Data-aLchemiSt16/Global-House-Prediction/blob/main/Feature%20importance.png)
+![Realistic Feature Importance Plot](images/realistic_feature_importance.png](https://github.com/Data-aLchemiSt16/Global-House-Prediction/blob/main/Feature%20importance.png)
 
 #### Model Performance
 *The model is strong at identifying non-buyers but struggles to find potential buyers (low recall), highlighting a clear area for future improvement.*
