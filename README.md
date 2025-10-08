@@ -10,7 +10,7 @@ This project focuses on building a binary classification model to predict whethe
 The core narrative of this project is not just about building a model, but about the critical data science process of identifying and correcting **data leakage**. An initial model achieved a misleading 100% accuracy, leading to an investigation that revealed flawed features. The final result is a realistic, honest model that provides actionable business insights.
 
 ## Data Leakage Visual :
-!Feature Importance PLot for analyzing problem(
+!Feature Importance PLot for analyzing problem(https://github.com/Data-aLchemiSt16/Global-House-Prediction/blob/main/Data%20Leakage.png)
 
 # The Data Leakage Story: From a "Perfect" Model to a Realistic One
 
